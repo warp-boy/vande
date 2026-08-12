@@ -1,0 +1,236 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Vande Mataram - Historical Renditions</title>
+    <link>https://www.vandemataram150.in/renditions</link>
+    <description>Historical gramophone renditions of Vande Mataram from the Centre of Gramophone Records and Allied Studies (CeGrams). Recordings from the aural stocks of Mr. Akhilesh Jha and Mrs. Rashmita Jha.</description>
+    <language>en-in</language>
+    <atom:link href="https://www.vandemataram150.in/renditions/feed" rel="self" type="application/rss+xml" />
+    <itunes:owner>
+      <itunes:name>Abhishek Kumar</itunes:name>
+      <itunes:email>abhishekonsearch@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Ministry of Culture, Government of India</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Music">
+      <itunes:category text="Music History" />
+    </itunes:category>
+    <itunes:category text="History" />
+    <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/assets/music.png" />
+    <image>
+      <url>https://www.vandemataram150.in/vande-mataram-assets/assets/music.png</url>
+      <title>Vande Mataram - Historical Renditions</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+    </image>
+    <item>
+      <title>National Record No. 463 (10 inches record-1905, England)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>The first-ever recording of Vande Mataram, sung by Shri Narayan Chandra Mukherjee in Calcutta and recorded by Mr. Steven Carl Porter for the Nicole label. Pressed in London on discs made by the Edison Bell Company, it was issued under the &quot;National Record&quot; label as a Bengali Song titled &quot;Bande Mataram Sujalam Sufalam.&quot;Notably, the label features the Union Jack and Royal Standard flags—a poignant detail on the earliest recording of India&apos;s song of freedom.</description>
+      <pubDate>Wed, 01 Jan 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_National_NC Mukherjee.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_National Record_462.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_National Record_462.png" />
+      <itunes:title>National Record No. 463 (10 inches record-1905, England)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">National Record No. 463 (10 inches record-1905, England)</guid>
+    </item>
+    <item>
+      <title>Odeon Record- N0. 94131 (10.75 inches record-1909, Germany)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>A rare 10.75-inch disc issued by the Odeon label, this recording features Vande Mataram sung by Shri Satya Bhushan Gupta of Calcutta, a renowned musicologist of his time. Gupta&apos;s rendition is deeply emotional and devotional in tone.The very fact that a foreign label produced this record highlights the immense popularity of Vande Mataram in the early 20th century—and the recognition by international record companies of its strong cultural and commercial appeal in India.</description>
+      <pubDate>Wed, 08 Jan 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_Odeon_SB Gupta.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Odeon_SB Gupta.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Odeon_SB Gupta.png" />
+      <itunes:title>Odeon Record- N0. 94131 (10.75 inches record-1909, Germany)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">Odeon Record- N0. 94131 (10.75 inches record-1909, Germany)</guid>
+    </item>
+    <item>
+      <title>His Master&apos;s Voice No. P-13361 (10 inches record-1928, India)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>This rare recording by Shri Vishnupant Pagnis, the celebrated actor and musician of Marathi cinema and theatre, stands as perhaps the boldest rendition of Vande Mataram. When only the first two stanzas of the song were permitted for public performance, Pagnis defiantly reversed the order—singing the last two stanzas first, followed by the first two.Composed in Raga Sarang, this version was labelled &quot;Rashtrageet,&quot; marking a courageous artistic response to controversy surrounding India&apos;s national song.</description>
+      <pubDate>Wed, 15 Jan 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_HMV_Vishnupant Pagnis.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_HMV_P13361.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_HMV_P13361.png" />
+      <itunes:title>His Master&apos;s Voice No. P-13361 (10 inches record-1928, India)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">His Master&apos;s Voice No. P-13361 (10 inches record-1928, India)</guid>
+    </item>
+    <item>
+      <title>His Master&apos;s Voice- HT.80 (12 inches record-1933, India)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>A 12-inch special edition record of Vande Mataram, sung by Shri Dilip Kumar Roy, from a family renowned for poetry and music. Such large-format records were reserved for significant compositions.Roy&apos;s rendition is deeply devotional in character. He is also known to have performed Vande Mataram in a special session for Mahatma Gandhi, and later recorded another version as a duet with Smt. M. S. Subbulakshmi. This record was issued under the label &quot;Bengali National.&quot;</description>
+      <pubDate>Wed, 22 Jan 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_HMV_12 inches_DK Roy.mp3" length="5000000" type="audio/mpeg" />
+      
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/assets/music.png" />
+      <itunes:title>His Master&apos;s Voice- HT.80 (12 inches record-1933, India)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">His Master&apos;s Voice- HT.80 (12 inches record-1933, India)</guid>
+    </item>
+    <item>
+      <title>Megaphone- JNG-5224 (10 inches record-1935, India)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>Issued by the Megaphone Company, which proudly projected itself as a Swadeshi enterprise, this 10-inch record features one of the earliest full renditions of Vande Mataram. Sung by Shiyut Bhabani Charan Das, renowned for Shyama Sangeet and Ramprasadi music, the recording carries the devotional essence of these traditions.The record label presents the song title solely in Bangla script and identifies it as a &quot;Bengali National Song.&quot; Notably, it also bears the first name of the lyricist — Bankimchandra — making it a rare tribute to the creator of the iconic hymn.</description>
+      <pubDate>Wed, 29 Jan 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_Megaphone_B C Das.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Megaphone_JNG5224.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Megaphone_JNG5224.png" />
+      <itunes:title>Megaphone- JNG-5224 (10 inches record-1935, India)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">Megaphone- JNG-5224 (10 inches record-1935, India)</guid>
+    </item>
+    <item>
+      <title>Odeon Record- A245012b (10 inches record-1935, Germany)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>This record exemplifies how Indian classical musicians wove Vande Mataram into traditional bandish compositions. In this rendition, Shri Keshavrao Bhole—a renowned musician associated with Marathi theatre and cinema—sings Vande Mataram in Raga Deskar, infusing it with deep devotion and lyrical grace.Pressed in Germany, the disc bears the mark &quot;Made in Germany&quot; on its label. Interestingly, while the title appears in Devanagari script, the song is classified as &quot;Marathi,&quot; reflecting the regional and linguistic diversity in the early musical interpretations of India&apos;s national song.</description>
+      <pubDate>Wed, 05 Feb 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_Odeon_Keshavrao Bhole_Germany.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Odeon_Keshavrao Bhole_A245012b.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Odeon_Keshavrao Bhole_A245012b.png" />
+      <itunes:title>Odeon Record- A245012b (10 inches record-1935, Germany)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">Odeon Record- A245012b (10 inches record-1935, Germany)</guid>
+    </item>
+    <item>
+      <title>Columbia- BEX-201 (12 inches record-1936, India)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>This 12-inch special edition record by Pandit Omkarnath Thakur features a distinguished rendition of Vande Mataram. The recording reflects how the song was performed at Indian National Congress sessions during that period.As a noted musicologist, Pandit Thakur described the raga used in this rendition as &quot;Bangiya Kafi.&quot; He also recorded another version of Vande Mataram for the Columbia label, released separately on a 10-inch disc.</description>
+      <pubDate>Wed, 12 Feb 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_Columbia_Omkarnath Thakur.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Columbia_BEX201.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Columbia_BEX201.png" />
+      <itunes:title>Columbia- BEX-201 (12 inches record-1936, India)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">Columbia- BEX-201 (12 inches record-1936, India)</guid>
+    </item>
+    <item>
+      <title>His Master&apos;s Voice- N-6944 (10 inches record-1937, India)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>Composed by Kamal Dasgupta, this is among the most iconic gramophone renditions of Vande Mataram. It was the first choral version of the song, arranged in a modern, anthem-like style. The record was sung by members of the &quot;Matri Sevak-Sevika Dal.&quot;HMV created a special multilingual label for this release, featuring the title Vande Mataram written in Devanagari, Gujarati, Bangla, Urdu, and English. Dasgupta&apos;s composition reflects both musical innovation and a courageous creative liberty — blending reverence for the original with a vision of national unity.</description>
+      <pubDate>Wed, 19 Feb 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_HMV_Kamal Dasgupta.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_HMV_N6944.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_HMV_N6944.png" />
+      <itunes:title>His Master&apos;s Voice- N-6944 (10 inches record-1937, India)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">His Master&apos;s Voice- N-6944 (10 inches record-1937, India)</guid>
+    </item>
+    <item>
+      <title>Hindusthan Record- H.570 (10 inches record-1937, India)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>This remarkable recording of Vande Mataram was produced under the guidance of Gurudev Rabindranath Tagore, who personally trained musicians from Santiniketan for the rendition. The music direction was provided by Shri Haripada Chatterjee, with Prova Ray, Jaya Das, Bejoya Devi, and Dhiren Gupta lending their voices.The record label designated Vande Mataram as the &quot;Indian National Anthem,&quot; while the reverse side featured Jana Gana Mana, identified as the &quot;National Song.&quot; This dual presentation captures a profound historical moment of India&apos;s evolving musical and national identity.</description>
+      <pubDate>Wed, 26 Feb 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_HMV_Tagore_s Training.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Hindusthan_H570_A.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Hindusthan_H570_A.png" />
+      <itunes:title>Hindusthan Record- H.570 (10 inches record-1937, India)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">Hindusthan Record- H.570 (10 inches record-1937, India)</guid>
+    </item>
+    <item>
+      <title>Hindusthan Record- H.570-sideB (10 inches record-1937, India)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>Hindusthan Record – H 570 (Side B) (1937, India)The reverse side of the same record that featured Vande Mataram as the &quot;Indian National Anthem&quot; carried Jana Gana Mana, labelled as the &quot;National Song.&quot; Both compositions were performed and composed by artists from Santiniketan, trained under the guidance of Gurudev Rabindranath Tagore.This dual presentation offers a fascinating insight into the evolving national consciousness of pre-Independence India—and how, after 1947, the designations of these two songs were formally reversed in the Republic&apos;s official order of precedence.</description>
+      <pubDate>Wed, 05 Mar 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_HMV_Tagore_s Training.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Hindusthan_H570_B.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Hindusthan_H570_B.png" />
+      <itunes:title>Hindusthan Record- H.570-sideB (10 inches record-1937, India)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">Hindusthan Record- H.570-sideB (10 inches record-1937, India)</guid>
+    </item>
+    <item>
+      <title>Hindusthan Record- H.1348 (10 inches record-1938, India)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>This 10-inch disc features a distinguished rendition of Vande Mataram, composed by Shri Pankaj Mullick and Shri Suren Pal. The record label notably describes the song as the &quot;Indian National Anthem&quot;, and its design includes a colourful map of India, enhancing its visual and patriotic appeal.The composition blends a modern orchestral arrangement with a melodic richness that reflects the spirit of the era. The reverse side of the record carries an instrumental marching version, underscoring its nationalistic fervour.</description>
+      <pubDate>Wed, 12 Mar 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_Hindusthan_Pankaj Mullick.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Hindusthan_H1348_A.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_Hindusthan_H1348_A.png" />
+      <itunes:title>Hindusthan Record- H.1348 (10 inches record-1938, India)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">Hindusthan Record- H.1348 (10 inches record-1938, India)</guid>
+    </item>
+    <item>
+      <title>Ananda Bazar &amp; Hindusthan Standard- AHR-1 (12 inches record-1938, India)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>This 12-inches record of Vande Mataram was one of the most special version of the revered anthem of India. This song was set to the tune by Shri Timir Baran. This was done at the request of new President of Congress Shri Subhash Chandra Bose. This special edition of Vande Mataram was produced by Ananda Bazar Patrika Group and so labelled as &quot;Ananda Bazar &amp; Hindusthan Standard&quot;. The branding had Bande Mataram in half of the circle. This record was proudly titled as &quot;Indian National Anthem&quot; and it had a very special release number- AHR.1.</description>
+      <pubDate>Wed, 19 Mar 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_HMV_Timir Baran_Orchestra.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_ABP_AHR-1A.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_ABP_AHR-1A.png" />
+      <itunes:title>Ananda Bazar &amp; Hindusthan Standard- AHR-1 (12 inches record-1938, India)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">Ananda Bazar &amp; Hindusthan Standard- AHR-1 (12 inches record-1938, India)</guid>
+    </item>
+    <item>
+      <title>His Master&apos;s Voice- N-31073 (10 inches record-1948, India)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>This record features a special post-Independence rendition of Vande Mataram composed by Mr. Alain Daniélou, a French-born musician and Indologist who adopted the name Shiv Sharan. A distinguished scholar with close associations to Santiniketan and later Banaras Hindu University, Daniélou set new tunes for both Vande Mataram and Jana Gana Mana in the years following India&apos;s Independence.This rare HMV edition bears the Visva-Bharati emblem overlayed on its label—symbolizing a cultural bridge between East and West through music.</description>
+      <pubDate>Wed, 26 Mar 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_HMV_Tagore_s Training.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_HMV_Danieleu_N31073.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_HMV_Danieleu_N31073.png" />
+      <itunes:title>His Master&apos;s Voice- N-31073 (10 inches record-1948, India)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">His Master&apos;s Voice- N-31073 (10 inches record-1948, India)</guid>
+    </item>
+    <item>
+      <title>His Master&apos;s Voice- N-27893 (10 inches record-1950, India)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>Following the Constituent Assembly&apos;s decision to adopt Jana Gana Mana as India&apos;s National Anthem, Timir Baran&apos;s 1938 composition of Vande Mataram was reissued in 1950. In this version, the song was titled &quot;Indian National Congress Anthem.&quot;It features several renowned Bengali vocalists, accompanied by the HMV Orchestra. The reverse side of the disc carries a stirring orchestral rendition of Vande Mataram. The record label itself is distinctive, displaying HMV&apos;s co-branding with the song title and a prominent tricolour motif, making it a special post-Independence edition.</description>
+      <pubDate>Wed, 02 Apr 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_HMV_Timir Baran_Orchestra.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_HMV_27829.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_HMV_27829.png" />
+      <itunes:title>His Master&apos;s Voice- N-27893 (10 inches record-1950, India)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">His Master&apos;s Voice- N-27893 (10 inches record-1950, India)</guid>
+    </item>
+    <item>
+      <title>His Master&apos;s Voice- N-17014 (10 inches record-1950, India)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>This rendition of Vande Mataram was composed by Sursagar and sung by Sati Devi, Kamal Das, Ajay Biswas, and Somen Gupta. Released after 1950, the song was presented under its new identity as the &quot;Indian National Song.&quot;In this experimental version, Sursagar deliberately reduced the use of the word &quot;Mataram&quot; and focused instead on &quot;Vande,&quot; giving the piece a distinctive lyrical and musical interpretation within the evolving post-Independence context.</description>
+      <pubDate>Wed, 09 Apr 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_HMV_Sursagar.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_HMV_17014.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_HMV_17014.png" />
+      <itunes:title>His Master&apos;s Voice- N-17014 (10 inches record-1950, India)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">His Master&apos;s Voice- N-17014 (10 inches record-1950, India)</guid>
+    </item>
+    <item>
+      <title>His Master&apos;s Voice- N-14421 (10 inches record-1950, India)</title>
+      <link>https://www.vandemataram150.in/renditions</link>
+      <description>This tricolour-decorated HMV record features a rare duet rendition of Vande Mataram by Smt. M. S. Subbulakshmi and Shri D. K. Roy. Their performance presents all four stanzas of the song, each rendered in a different raga, beautifully expressing devotion and dedication to the newly independent nation.The record was labelled &quot;National&quot;. It also credits the lyricist as &quot;Poojyasree Bankim Chandra,&quot; acknowledging the revered author of the timeless hymn.</description>
+      <pubDate>Wed, 16 Apr 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.vandemataram150.in/vande-mataram-assets/audio/Cegrams_VM_HMV_MS_DK Roy.mp3" length="5000000" type="audio/mpeg" />
+      <media:thumbnail url="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_HMV_14421.png" />
+      <itunes:image href="https://www.vandemataram150.in/vande-mataram-assets/image/CeGrams_VM_HMV_14421.png" />
+      <itunes:title>His Master&apos;s Voice- N-14421 (10 inches record-1950, India)</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>180</itunes:duration>
+      <guid isPermaLink="false">His Master&apos;s Voice- N-14421 (10 inches record-1950, India)</guid>
+    </item>
+  </channel>
+</rss>
